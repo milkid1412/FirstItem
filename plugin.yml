@@ -1,0 +1,19 @@
+name: FirstItem
+main: Kkevin14\FirstItem\FirstItem
+author: Kkevin14
+api: 4.0.0
+version: 1.0.0
+
+permissions:
+  firstitem.command.additem:
+    default: op
+    description: permission for add first item command
+  firstitem.command.deleteitem:
+    default: op
+    description: permission for delete first item command
+  firstitem.command.itemlist:
+    default: op
+    description: permission for see first item list command
+  firstitem.command.editwelcome:
+    default: op
+    description: permission for edit welcome message command
